@@ -8,6 +8,7 @@ A Responsive Education website created using Html, css &amp; javascript
 - Javascript
 
 # Live Site
+- https://educationwebsitemk.netlify.app/
 
 # Screenshots
 ![1](https://github.com/Evilking009/Education-website/assets/4027728/86f2f8e3-89c4-40c7-baff-63ca2488174f)
